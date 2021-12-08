@@ -42,7 +42,7 @@ Jos tuosta tulee jotain herjaa, laita ensin
 ja kokeile uudestaan
 
 5. Lisää omaan projektiisi .env (varmuuden vuoksi sekä juurikansioon että src-kansioon), jonka sisältö on  
-> DATABASE_URL="postgresql+psycopg2://"
+> DATABASE_URL="postgresql+psycopg2://"  
 > SECRET_KEY="salainenavain"
 
 6. Aseta polku ja käynnistä flask
