@@ -1,1 +1,1 @@
-![Certificate for completing Full Stack Open 7 ECTS online course with grade 5, issued to Maaria Wahlström](/certificate-fullstack.png) 
+![Certificate for completing Full Stack Open 7 ECTS online course with grade 5, issued to Maaria Wahlström](/certificateFullstack.png) 
